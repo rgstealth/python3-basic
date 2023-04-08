@@ -1,3 +1,3 @@
-//menampilkan teks helloworld
+#menampilkan teks helloworld
 print ("hello world")
 
